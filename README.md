@@ -245,7 +245,7 @@ hr {
 ~~~
 
 ## OUTPUT
-![alt text](image.png)
+![alt text](<Screenshot 2026-05-14 214907.png>)
 ![alt text](<Screenshot 2026-05-14 211712.png>)
 
 ## RESULT
